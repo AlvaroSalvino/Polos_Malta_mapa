@@ -1,0 +1,1898 @@
+[
+    {
+        "polo": "MATA ROMA ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.6222921330740854 -43.11269660033467"
+    },
+    {
+        "polo": "CHAPADINHA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.7419035132477267 -43.359618257741985"
+    },
+    {
+        "polo": "VARGEM GRANDE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.547615967728549 -43.91460898796127"
+    },
+    {
+        "polo": "ITAPECURU-MIRIM",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.3930207887681467 -44.36021080889019"
+    },
+    {
+        "polo": "VIANA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.20423538268184 -44.99625056306883"
+    },
+    {
+        "polo": "MIRANDA DO NORTE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.5647348598246507 -44.58512625746472"
+    },
+    {
+        "polo": "SAO MATEUS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.030548468467533 -44.46605909751212"
+    },
+    {
+        "polo": "POVOADO QUILOMBO/ALTOS-PI",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.912249304124753 -42.52868472971539"
+    },
+    {
+        "polo": "SAO GONCALO",
+        "parceiro": "MICHEL MARTINS",
+        "parceiro_local": "MICHEL MARTINS",
+        "endereco": "-22.8235636649378 -43.05585152985182"
+    },
+    {
+        "polo": "BARRA DO CORDA",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-5.502964553357474 -45.24887068997639"
+    },
+    {
+        "polo": "GRAJAU ",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-5.824933944729835 -46.159712232842445"
+    },
+    {
+        "polo": "MIRADOR ",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-6.370518942896323 -44.35765355846849"
+    },
+    {
+        "polo": "FERNANDO FALCAO ",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-6.150072528027232 -44.89326744660402"
+    },
+    {
+        "polo": "ITAIPAVA DO GRAJAU",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-5.143359824685105 -45.786828014586206"
+    },
+    {
+        "polo": "SAO RAIMUNDO DO DOCA BEZERRA",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-5.106343851933561 -45.07845941009629"
+    },
+    {
+        "polo": "SAO JOAO DO PARAISO",
+        "parceiro": "CLEUTON",
+        "parceiro_local": "CLEUTON",
+        "endereco": "-6.466585685956183 -47.057357116983724"
+    },
+    {
+        "polo": "CAJUEIRO DA PRAIA ",
+        "parceiro": "LHANA ",
+        "parceiro_local": "LHANA ",
+        "endereco": "-2.92871903342209 -41.33859795312905"
+    },
+    {
+      "polo": "VITORIA DO MEARIM",
+      "parceiro": "HELO",
+      "parceiro_local": "HELO",
+      "endereco": "-3.460113053472226 -44.87123461307855"
+    },
+    {
+        "polo": "OLINDA NOVA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.997695134325014 -44.99468050221359"
+    },
+    {
+        "polo": "ZE DOCA ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.2713996948240496 -45.65403809018646"
+    },
+    {
+        "polo": "GOV NUNE SFREIRE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.1280157105952098 -45.8812772867233"
+    },
+    {
+        "polo": "SANTA LUZIA DO PARUA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.5474023967836374 -45.779913536516396"
+    },
+    {
+        "polo": "MARANHAOZINHO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.242280040170147 -45.85777795389479"
+    },
+    {
+        "polo": "SAO JOAO BATISTA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.958310506808886 -44.797703671305634"
+    },
+    {
+        "polo": "BACURITUBA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.706162247379865 -44.733238274138216"
+    },
+    {
+        "polo": "PERI MIRIM",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.5759385843725977 -44.84963269001224"
+    },
+    {
+        "polo": "GUIMARAES",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.1326855041652193 -44.601902241077745"
+    },
+    {
+        "polo": "CENTRAL DO MARANHAO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.196341855272044 -44.82904495377801"
+    },
+    {
+        "polo": "CURURUPU",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-1.8256208666452591 -44.87439833409392"
+    },
+    {
+        "polo": "PRESIDENTE SARNEY",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.5889926475705773 -45.358789998365125"
+    },
+    {
+        "polo": "PEDRO DO ROSARIO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.965955283927942 -45.34005716670339"
+    },
+    {
+        "polo": "ZE DOCA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.2717576515218574 -45.652053289269986"
+    },
+    {
+        "polo": "GOV NEWTON BELO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.424856964008052 -45.67374450447665"
+    },
+    {
+        "polo": "SANTA INES",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.664488928323023 -45.382256926047475"
+    },
+    {
+        "polo": "BELA VISTA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.7380882298020532 -45.24446927857579"
+    },
+    {
+        "polo": "PIO XII",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.8924311822699877 -45.164145028299636"
+    },
+    {
+        "polo": "BOM LUGAR",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.370357284393515 -45.02663880594947"
+    },
+    {
+        "polo": "SAO LUIS GONZAGA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.3755927612811005 -44.665306796687844"
+    },
+    {
+        "polo": "SATUBINHA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.035386803813318 -45.2339877276098"
+    },
+    {
+        "polo": "OLHO DAGUA DAS CUNHAS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.139903890006024 -45.12142212337519"
+    },
+    {
+        "polo": "PAULO RAMOS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.44478563192565 -45.23943758195474"
+    },
+    {
+        "polo": "VITORINO FREIRE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.28742962385935 -45.24767584871716"
+    },
+    {
+        "polo": "LAGO DA PEDRA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.570231131806479 -45.13295449889867"
+    },
+    {
+        "polo": "LAGO DOS JUNCO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.609210310467058 -45.04602426286603"
+    },
+    {
+        "polo": "LAGO DOS RODRIGUES",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.611766853909689 -44.971511709205885"
+    },
+    {
+        "polo": "IGARAPE GRANDE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.661986290174732 -44.84813921600797"
+    },
+    {
+        "polo": "CONCEICAO DO LAGO ACU",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.8395422321288506 -44.8853879955142"
+    },
+    {
+        "polo": "LAGO VERDE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.041647305354917 -44.93621973089281"
+    },
+    {
+        "polo": "BURITI",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.942213531662074 -42.91807170166755"
+    },
+    {
+      "polo": "ALTO LONGA",
+      "parceiro": "HELO",
+      "parceiro_local": "HELO",
+      "endereco": "-5.250085683078171 -42.2064689424632"
+    },
+    {
+        "polo": "PRATA DO PIAUI",
+        "parceiro": "VAL",
+        "parceiro_local": "HELO/VAL",
+        "endereco": "-5.665822069784967 -42.200937950412325"
+    },
+    {
+        "polo": "LAGO VERDE ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.041487072983265 -44.93640260431006"
+    },
+    {
+        "polo": "ALTO ALEGRE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.21541003056841 -44.45267302205764"
+    },
+    {
+        "polo": "BALSAS ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-7.534395337842935 -46.04119740614379"
+    },
+    {
+        "polo": "SAO FELIX DE BALSAS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-7.084157119862503 -44.81004253574866"
+    },
+    {
+        "polo": "SAO JOAO DOS PATOS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-6.493274040476526 -43.69230227933374"
+    },
+    {
+        "polo": "SAO JOAO DA SERRA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-5.515622034519391 -41.88878699300598"
+    },
+    {
+        "polo": "ANAPURUS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.6726274904754557 -43.115061223575765"
+    },
+    {
+        "polo": "PALMERANDIA ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.644859401226823 -44.89095914465033"
+    },
+    {
+        "polo": "SANTA HELENA ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.2350864317825594 -45.30335141289364"
+    },
+    {
+        "polo": "PASSAGEM FRANCA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-6.178672665305313 -43.77547156842487"
+    },
+    {
+        "polo": "PASSAGEM FRANCA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-5.855650928710662 -42.43283867763298"
+    },
+    {
+        "polo": "JARDIM DO MULATO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-6.116998062785385 -42.64892685253627"
+    },
+    {
+        "polo": "LAGOA DO MATO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-9.315983683287277 -43.336456659484305"
+    },
+    {
+        "polo": "PRATA DO PIAUI",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-5.665736658349248 -42.200680458522015"
+    },
+    {
+        "polo": "SAMBAIBA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-7.1395790161046655 -45.345834794568745"
+    },
+    {
+        "polo": "CABECEIRAS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-4.471889260267706 -42.30293466072378"
+    },
+    {
+        "polo": "SAO DOMINGOS DO AZEITAO",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-6.811616830707983 -44.6393712754653"
+    },
+    {
+        "polo": "CONCEICAO DO LAGO ACU",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.839028403712591 -44.88701877877036"
+    },
+    {
+        "polo": "SAO JOAO DO CARU",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.555595088160924 -46.24720713097806"
+    },
+    {
+        "polo": "MATOES DO NORTE",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.6255384437663003 -44.54765013804283"
+    },
+    {
+        "polo": "ARARI",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.4545602534938133 -44.7843715946526"
+    },
+    {
+        "polo": "MATINHA",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-3.099558162886631 -45.0316817622764"
+    },
+    {
+        "polo": "SAO VICENTE FERRER",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-2.8927914760862548 -44.87998469816194"
+    },
+    {
+      "polo": "SANTA LUZIA",
+      "parceiro": "PEDRO ALVES",
+      "parceiro_local": "PEDRO ALVES",
+      "endereco": "-3.970758108907156 -45.664464946087705"
+    },
+    {
+        "polo": "CAJUEIRO",
+        "parceiro": "PETRUCIO",
+        "parceiro_local": "PETRUCIO",
+        "endereco": "-9.391517639015502 -36.150289881609886"
+    },
+    {
+        "polo": "BURITI DOS LOPES",
+        "parceiro": "POLIANA  SOUSA",
+        "parceiro_local": "POLIANA  SOUSA",
+        "endereco": "-3.17493797143282 -41.86562032093672"
+    },
+    {
+        "polo": "SAO BENTO",
+        "parceiro": "POLIANA SOUSA",
+        "parceiro_local": "POLIANA SOUSA",
+        "endereco": "-2.701376578049611 -44.84100113126849"
+    },
+    {
+        "polo": "VITORIA",
+        "parceiro": "Raimundo Moreno",
+        "parceiro_local": "Raimundo Moreno",
+        "endereco": "-20.319221220523243 -40.340292020010466"
+    },
+    {
+        "polo": "FELIZ NATAL",
+        "parceiro": "RAQUEL QUEIROZ",
+        "parceiro_local": "RAQUEL QUEIROZ",
+        "endereco": "-12.382029266489186 -54.93589558916343"
+    },
+    {
+        "polo": "BURITI DOS MONTES",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.31128092094285 -41.090293752832295"
+    },
+    {
+        "polo": "PIMENTEIRAS",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-6.2363614448830065 -41.41914898380694"
+    },
+    {
+        "polo": "SAO MIGUEL DO TAPUIO ",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.500980405670534 -41.31240164042087"
+    },
+    {
+        "polo": "ASSUNCAO DO PIAUI",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.85798841767324 -41.041638646934416"
+    },
+    {
+        "polo": "CRATEUS ",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.178626271653321 -40.668386060767865"
+    },
+    {
+        "polo": "NOVO ORIENTE ",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.5363071070631085 -40.767686952920364"
+    },
+    {
+        "polo": "TAMBORIL",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-4.832218619003403 -40.316532912895156"
+    },
+    {
+        "polo": "PORANGA",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-4.742927626424793 -40.92178063495164"
+    },
+    {
+        "polo": "QUITERIANOPOLIS",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.844441502159773 -40.69588040886505"
+    },
+    {
+        "polo": "SAO MIGUEL DO TAPUIO",
+        "parceiro": "REGINALDO FURTADO",
+        "parceiro_local": "REGINALDO FURTADO",
+        "endereco": "-5.501065841014853 -41.311886655641906"
+    },
+    {
+        "polo": "TEIXEIRA DE FREITAS",
+        "parceiro": "ROGERIA",
+        "parceiro_local": "ROGERIA",
+        "endereco": "-17.53905886699078 -39.74499696217351"
+    },
+    {
+        "polo": "SENADOR JOSE PORFIRIO",
+        "parceiro": "THYANNO",
+        "parceiro_local": "SEBASTIAO FOGACO",
+        "endereco": "-4.21541003056841 -44.45267302205764"
+    },
+    {
+        "polo": "MOJU",
+        "parceiro": "Selma Franco",
+        "parceiro_local": "Selma Franco",
+        "endereco": "-1.8867167852235087 -48.76615548619413"
+    },
+    {
+        "polo": "AGRICOLANDIA",
+        "parceiro": "SOLANGE",
+        "parceiro_local": "SOLANGE",
+        "endereco": "-5.794966761568094 -42.65540729830044"
+    },
+    {
+      "polo": "ARAGUANA",
+      "parceiro": "SOLANGE",
+      "parceiro_local": "SOLANGE",
+      "endereco": "-2.9511542421802988 -45.665367842046756"
+    },
+    {
+      "polo": "MATIAS OLIMPIO",
+      "parceiro": "SUNAMITA",
+      "parceiro_local": "SUNAMITA",
+      "endereco": "-3.715456995713883 -42.55400562221116"
+    },
+    {
+      "polo": "EUNAPOLIS",
+      "parceiro": "DOUGLAS",
+      "parceiro_local": "TANDA E JUNIOR",
+      "endereco": "-16.37476354825299 -39.58662317803428"
+    },
+    {
+      "polo": "ACAILANDIA",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-4.954373728444193 -47.50233467972408"
+    },
+    {
+      "polo": "DIVINOPOLIS",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-9.797472479574942 -49.20983296794103"
+    },
+    {
+      "polo": "SAO FRANCISCO DO BREJAO",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-5.124337642948237 -47.385516984202006"
+    },
+    {
+      "polo": "PARAUPEBAS",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-6.068963923865617 -49.903737949199915"
+    },
+    {
+      "polo": "GRAJAU ",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-5.824336231842261 -46.16014138512903"
+    },
+    {
+      "polo": "GOVERNADOR ARCHER",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-5.023057743953273 -44.272436800783225"
+    },
+    {
+      "polo": "GONCALVES DIAS",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-5.155209140787809 -44.29961251928802"
+    },
+    {
+      "polo": "BURITICUPU",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-4.314148601038402 -46.45651078826206"
+    },
+    {
+      "polo": "LUZILANDIA ",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-3.4604909381465787 -42.36439879723591"
+    },
+    {
+      "polo": "PORTO FRANCO",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-6.343615155611341 -47.397378682250775"
+    },
+    {
+      "polo": "CIDELANDIA ",
+      "parceiro": "THYANNO BRITO",
+      "parceiro_local": "THYANNO BRITO",
+      "endereco": "-5.173114256906539 -47.782457529303905"
+    },
+    {
+        "polo": "GOV EDSON LOBAO",
+        "parceiro": "THYANNO BRITO",
+        "parceiro_local": "THYANNO BRITO",
+        "endereco": "-5.747397184255422 -47.36152633201286"
+    },
+    {
+        "polo": "MARUIM",
+        "parceiro": "GILVANETE",
+        "parceiro_local": "GILVANETE",
+        "endereco": "-10.736283057208372 -37.077868665525756"
+    },
+    {
+        "polo": "PETROLANDIA",
+        "parceiro": "VAL",
+        "parceiro_local": "VAL",
+        "endereco": "-8.980011159360668 -38.2149393496537"
+    },
+    {
+        "polo": "IGUATU",
+        "parceiro": "VALDETE",
+        "parceiro_local": "VALDETE",
+        "endereco": "-6.359332615787133 -39.29810388010704"
+    },
+    {
+        "polo": "PIO IX",
+        "parceiro": "VANIA ",
+        "parceiro_local": "VANIA ",
+        "endereco": "-6.83436681918334 -40.61055304965328"
+    },
+    {
+        "polo": "SOBRAL",
+        "parceiro": "WAGNER",
+        "parceiro_local": "WAGNER",
+        "endereco": "-3.684014963461735 -40.35728924584141"
+    },
+    {
+        "polo": "CATUNDA",
+        "parceiro": "WAGNER",
+        "parceiro_local": "WAGNER",
+        "endereco": "-4.647267709583796 -40.19476682205392"
+    },
+    {
+        "polo": "GUARABIRA",
+        "parceiro": "WILSON",
+        "parceiro_local": "WILSON",
+        "endereco": "-6.851651826231515 -35.492877920463656"
+    },
+    {
+        "polo": "ILHEUS",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-14.799091078757089 -39.035880093090164"
+    },
+    {
+        "polo": "CAMACAN",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-15.420168150461771 -39.49586125507213"
+    },
+    {
+        "polo": "ITAJU DO COLONIA",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-15.141185086419503 -39.72144643463561"
+    },
+    {
+        "polo": "ITACARE",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-14.28023013941162 -38.99418976737131"
+    },
+    {
+        "polo": "CANAVIEIRAS",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-15.67779763680194 -38.9458416481668"
+    },
+    {
+        "polo": "ALMADINA",
+        "parceiro": "ZULMARA",
+        "parceiro_local": "ZULMARA",
+        "endereco": "-14.704515048661078 -39.63240523561245"
+    },
+    {
+        "polo": "BENEDITINOS ",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-5.453061295620595 -42.36217504380167"
+    },
+    {
+        "polo": "ALTOS",
+        "parceiro": "HELO",
+        "parceiro_local": "HELO",
+        "endereco": "-5.039561024974821 -42.459986839171634"
+    },
+    {
+      "polo": "CARIRE",
+      "parceiro": "JOHN FARIAS",
+      "parceiro_local": "JOHN FARIAS",
+      "endereco": "-3.949707943958969 -40.47413945387365"
+    },
+    {
+        "polo": "TIANGUA",
+        "parceiro": "JOHN FARIAS",
+        "parceiro_local": "JOHN FARIAS",
+        "endereco": "-3.7307083024159913 -40.99228286013873"
+    },
+    {
+        "polo": "ARACATIACU",
+        "parceiro": "JOHN FARIAS",
+        "parceiro_local": "JOHN FARIAS",
+        "endereco": "-3.8735489683999305 -40.02467967063661"
+    },
+    {
+        "polo": "BAIXA GRANDE DO RIBEIRO",
+        "parceiro": "JOSE",
+        "parceiro_local": "JOSE",
+        "endereco": "-7.864685640456995 -45.208622288195066"
+    },
+    {
+        "polo": "ARAPIRACA",
+        "parceiro": "JOSE NETO",
+        "parceiro_local": "JOSE NETO",
+        "endereco": "-9.756524914755808 -36.664749525645014"
+    },
+    {
+        "polo": "TAQUARANA",
+        "parceiro": "JOSE NETO",
+        "parceiro_local": "JOSE NETO",
+        "endereco": "-9.645590626502255 -36.496262011478166"
+    },
+    {
+        "polo": "PAULO JACINTO ",
+        "parceiro": "JOSE NETO",
+        "parceiro_local": "JOSE NETO",
+        "endereco": "-9.371615740941092 -36.374492853224154"
+    },
+    {
+        "polo": "Santa Luzia do Tide",
+        "parceiro": "Josely",
+        "parceiro_local": "Josely",
+        "endereco": "-3.9277689281169885 -45.654127112052855"
+    },
+    {
+        "polo": "PADRE MARCOS ",
+        "parceiro": "JULIA DIAS",
+        "parceiro_local": "JULIA DIAS",
+        "endereco": "-7.353605815745655 -40.90457897918003"
+    },
+    {
+        "polo": "Santa Rita",
+        "parceiro": "Cleonaldo",
+        "parceiro_local": "Cleonaldo",
+        "endereco": "-7.812656677691158 -40.168664431294324"
+    },
+    {
+        "polo": "BERTOLINIA",
+        "parceiro": "KEZIA",
+        "parceiro_local": "KEZIA",
+        "endereco": "-7.63748450015138 -43.95248074055259"
+    },
+    {
+        "polo": "CAJUEIRO DA PRAIA",
+        "parceiro": "LANA",
+        "parceiro_local": "LANA",
+        "endereco": "-2.9284190183442855 -41.3382975458232"
+    },
+    {
+        "polo": "VERTENTE DO LERIO",
+        "parceiro": "VALTER JUNIOR",
+        "parceiro_local": "VALTER JUNIOR",
+        "endereco": "-7.773031130473579 -35.84665846478919"
+    },
+    {
+        "polo": "PARICONHA",
+        "parceiro": "LANIA",
+        "parceiro_local": "LANIA",
+        "endereco": "-9.252623739886506 -38.00530683076789"
+    },
+    {
+        "polo": "Araripina",
+        "parceiro": "Larisse ",
+        "parceiro_local": "Larisse ",
+        "endereco": "-7.576745029125985 -40.497312746172014"
+    },
+    {
+        "polo": "JARDIM",
+        "parceiro": "LORA",
+        "parceiro_local": "LORA",
+        "endereco": "-7.584189751719606 -39.279895878609096"
+    },
+    {
+        "polo": "LAGOA DO OURO",
+        "parceiro": "ROSICLEIDE",
+        "parceiro_local": "ROSICLEIDE",
+        "endereco": "-9.12276418360372 -36.45659700689181"
+    },
+    {
+        "polo": "OLHO D'AGUA",
+        "parceiro": "DEUZANIR",
+        "parceiro_local": "DEUZANIR",
+        "endereco": "-5.847734008666467 -42.56428927829348"
+    },
+    {
+        "polo": "Ipiranga",
+        "parceiro": "Leidiany",
+        "parceiro_local": "Leidiany",
+        "endereco": "-6.822571617668499 -41.7317653136855"
+    },
+    {
+        "polo": "ELESBAO VELOSO",
+        "parceiro": "TERESINHA",
+        "parceiro_local": "TERESINHA",
+        "endereco": "-6.198942969130594 -42.128129661150794"
+    },
+    {
+        "polo": "CAJAPIO",
+        "parceiro": "MANUEL",
+        "parceiro_local": "MANUEL",
+        "endereco": "-2.8805616615355176 -44.67063927409728"
+    },
+    {
+        "polo": "CURRALINHOS",
+        "parceiro": "MARCIEL ",
+        "parceiro_local": "MARCIEL ",
+        "endereco": "-5.617860516277208 -42.823070666997864"
+    },
+    {
+        "polo": "Joselandia",
+        "parceiro": "Marcio",
+        "parceiro_local": "Marcio",
+        "endereco": "-4.981721829836035 -44.697013606221944"
+    },
+    {
+        "polo": "Pedreiras",
+        "parceiro": "Marcio ",
+        "parceiro_local": "Marcio ",
+        "endereco": "-4.570802950668849 -44.59659463536538"
+    },
+    {
+        "polo": "LAJEADO NOVO",
+        "parceiro": "MARCOS BRITO",
+        "parceiro_local": "MARCOS BRITO",
+        "endereco": "-6.190691847525466 -47.03393349229067"
+    },
+    {
+        "polo": "REGENERACAO",
+        "parceiro": "MARIA ",
+        "parceiro_local": "MARIA ",
+        "endereco": "-6.237589597552235 -42.68338452067"
+    },
+    {
+        "polo": "CARNAUBEIRA DA PENHA",
+        "parceiro": "MARIA AUGUSTA",
+        "parceiro_local": "MARIA AUGUSTA",
+        "endereco": "-8.319007965954032 -38.733845523928245"
+    },
+    {
+        "polo": "IBERTIOGA",
+        "parceiro": "MARIA INEZ",
+        "parceiro_local": "MARIA INEZ",
+        "endereco": "-21.432301617491742 -43.959699804619454"
+    },
+    {
+        "polo": "PARNAIBA",
+        "parceiro": "SANTA",
+        "parceiro_local": "SANTA",
+        "endereco": "-2.9092299746166606 -41.747829239412525"
+    },
+    {
+        "polo": "LUIS DOMINGUES",
+        "parceiro": "MEGH",
+        "parceiro_local": "MEGH",
+        "endereco": "-1.326643123407063 -45.89040832282706"
+    },
+    {
+        "polo": "BARRO DURO",
+        "parceiro": "MENINO JESUS",
+        "parceiro_local": "MENINO JESUS",
+        "endereco": "-5.820656790572964 -42.50959452435619"
+    },
+    {
+        "polo": "FLORESTA",
+        "parceiro": "NEIDINHA",
+        "parceiro_local": "NEIDINHA",
+        "endereco": "-8.600836986832046 -38.577700857093355"
+    },
+    {
+        "polo": "TIMON ",
+        "parceiro": "NETO VICENTE",
+        "parceiro_local": "NETO VICENTE",
+        "endereco": "-5.104740597510291 -42.83032519278715"
+    },
+    {
+        "polo": "ICATU",
+        "parceiro": "NEURIANE",
+        "parceiro_local": "NEURIANE",
+        "endereco": "-2.7731610577104635 -44.059602879663146"
+    },
+    {
+        "polo": "CACHOEIRA GRANDE",
+        "parceiro": "NEURIANE",
+        "parceiro_local": "NEURIANE",
+        "endereco": "-2.9320301671192253 -44.04445831695582"
+    },
+    {
+        "polo": "BREJO",
+        "parceiro": "OLGA PORTELA",
+        "parceiro_local": "OLGA PORTELA",
+        "endereco": "-3.6779401304803314 -42.75333993103577"
+    },
+    {
+        "polo": "REGENERACAO",
+        "parceiro": "EVA",
+        "parceiro_local": "EVA",
+        "endereco": "-6.2368216939646475 -42.68149624539651"
+    },
+    {
+        "polo": "FRONTEIRAS",
+        "parceiro": "OLINTETE",
+        "parceiro_local": "OLINTETE",
+        "endereco": "-7.088571196589375 -40.61426379999484"
+    },
+    {
+        "polo": "WALLFERRAZ",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.232662098439032 -41.90608390473133"
+    },
+    {
+        "polo": "CARIDADE",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.731232193443017 -40.981495614901576"
+    },
+    {
+        "polo": "MARCOLANDIA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.445119354326305 -40.6632333002222"
+    },
+    {
+        "polo": "SIMOES",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.596638114329186 -40.812695835462115"
+    },
+    {
+        "polo": "CURRAL NOVO",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.832133219151078 -40.905277097039296"
+    },
+    {
+        "polo": "SAO JOAO DA CANABRAVA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.8156855078226215 -41.345214743282995"
+    },
+    {
+        "polo": "SANTANA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.945263788709825 -41.514239920733466"
+    },
+    {
+        "polo": "BETANIA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-8.142712336624616 -40.79093412273032"
+    },
+    {
+        "polo": "PAULISTANA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-8.138168393444001 -41.13531936874014"
+    },
+    {
+        "polo": "PATOS",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.676635036409407 -41.2379442919723"
+    },
+    {
+        "polo": "SAO JOAO DA VARJOTA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.912402816906396 -41.859697821580724"
+    },
+    {
+        "polo": "DOM EXPEDITO LOPES",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.9579106181996355 -41.636409587281236"
+    },
+    {
+        "polo": "PAQUETA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.103581255054395 -41.70332277488435"
+    },
+    {
+        "polo": "SANTO INANCIO",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.423766228797504 -41.9144411561759"
+    },
+    {
+        "polo": "FLORESTA",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.466692339387199 -41.79980641420583"
+    },
+    {
+        "polo": "ITAINOPOLIS",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.4461102286886955 -41.47474014543518"
+    },
+    {
+        "polo": "ISAIAS COELHO",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.733951155592788 -41.67218703720638"
+    },
+    {
+        "polo": "VERAMENDES",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.6026141331580215 -41.47678629169858"
+    },
+    {
+        "polo": "SIMPLICIO MENDES",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.858845635150824 -41.900821070251915"
+    },
+    {
+        "polo": "PAES LANDIM",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.776202066620529 -42.24975433734435"
+    },
+    {
+        "polo": "FRANCISCO SANTOS",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.993627596347477 -41.136875822375345"
+    },
+    {
+        "polo": "SAO JOSE DO PIAUI",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-6.870939237860915 -41.469449440613275"
+    },
+    {
+        "polo": "JACOBINA ",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.942084402302418 -41.20719837576601"
+    },
+    {
+        "polo": "SAO JOSE DO PIAUI",
+        "parceiro": "OSTAVENE",
+        "parceiro_local": "OSTAVENE",
+        "endereco": "-6.871024452143399 -41.469706932954544"
+    },
+    {
+        "polo": "JAICOS",
+        "parceiro": "OSTAVANE",
+        "parceiro_local": "OSTAVANE",
+        "endereco": "-7.361324915724789 -41.139833593031696"
+    },
+    {
+        "polo": "ITAINOPOLIS",
+        "parceiro": "OSTAVANE ",
+        "parceiro_local": "OSTAVANE ",
+        "endereco": "-7.446365549351 -41.47602760501722"
+    },
+    {
+        "polo": "NOVO ORIENTE",
+        "parceiro": "PEDRO ",
+        "parceiro_local": "PEDRO ",
+        "endereco": "-5.536221676780911 -40.768545259528274"
+    },
+    {
+      "polo": "SAO SEBASTIAO",
+      "parceiro": "ADEMILSON LEANDRO",
+      "parceiro_local": "ADEMILSON LEANDRO",
+      "endereco": "-9.929390522950895 -36.55501573737604"
+    },
+    {
+        "polo": "SAO JOSE DA TAPERA",
+        "parceiro": "ADIELMA",
+        "parceiro_local": "ADIELMA",
+        "endereco": "-9.604992949124902 -37.42134833898226"
+    },
+    {
+        "polo": "QUIXADA",
+        "parceiro": "ADRIANA",
+        "parceiro_local": "ADRIANA",
+        "endereco": "-4.968294673319056 -39.01623137643444"
+    },
+    {
+        "polo": "VALENCA DO PIAUI",
+        "parceiro": "ADRIANA",
+        "parceiro_local": "ADRIANA",
+        "endereco": "-6.404391942602421 -41.73791380811639"
+    },
+    {
+        "polo": "BAIXA GRANDE DO RIBEIRO",
+        "parceiro": "ALAN",
+        "parceiro_local": "ALAN",
+        "endereco": "-7.864303035172621 -45.21188385421043"
+    },
+    {
+        "polo": "GRANJA",
+        "parceiro": "ALESSON",
+        "parceiro_local": "ALESSON",
+        "endereco": "-3.1183014020057214 -40.83110763591671"
+    },
+    {
+        "polo": "TERESINA",
+        "parceiro": "AMANDA CARTER ",
+        "parceiro_local": "AMANDA CARTER ",
+        "endereco": "-5.096167665085112 -42.80953880047736"
+    },
+    {
+        "polo": "SAO LUIS",
+        "parceiro": "ANA CAROLINA",
+        "parceiro_local": "ANA CAROLINA",
+        "endereco": "-2.5314785753860813 -44.29966405602651"
+    },
+    {
+        "polo": "CAXIAS ",
+        "parceiro": "ANA CRISTINA ",
+        "parceiro_local": "ANA CRISTINA ",
+        "endereco": "-4.864553363583751 -43.35804380603921"
+    },
+    {
+        "polo": "ABAETETUBA",
+        "parceiro": "ANDREY",
+        "parceiro_local": "ANDREY",
+        "endereco": "-1.7226221853915744 -48.87930431818398"
+    },
+    {
+        "polo": "ESPERANTINA",
+        "parceiro": "ANGELA",
+        "parceiro_local": "ANGELA",
+        "endereco": "-3.894526872035662 -42.234119294830926"
+    },
+    {
+        "polo": "INHUMA",
+        "parceiro": "APARECIDA",
+        "parceiro_local": "APARECIDA",
+        "endereco": "-6.667227853645884 -41.70991029079471"
+    },
+    {
+        "polo": "SAO BERNARDO",
+        "parceiro": "ARI PEREIRA",
+        "parceiro_local": "ARI PEREIRA",
+        "endereco": "-3.360118110585866 -42.41701155689407"
+    },
+    {
+        "polo": "SANTANA",
+        "parceiro": "ARI PEREIRA",
+        "parceiro_local": "ARI PEREIRA",
+        "endereco": "-3.11421067543388 -42.412668210826126"
+    },
+    {
+        "polo": "BAIXA GRANDE",
+        "parceiro": "ARI PEREIRA",
+        "parceiro_local": "ARI PEREIRA",
+        "endereco": "-3.226048934351192 -42.43842064239468"
+    },
+    {
+        "polo": "SANTANA DOS CARVALHOS/TUTOIA",
+        "parceiro": "ARI PEREIRA",
+        "parceiro_local": "ARI PEREIRA",
+        "endereco": "-3.1016007005105544 -42.66164789481917"
+    },
+    {
+        "polo": "PADRE MARCOS",
+        "parceiro": "JULIA MARIA (VINCULADA A SEDE)",
+        "parceiro_local": "JULIA MARIA (VINCULADA A SEDE)",
+        "endereco": "-7.352712005109879 -40.90410691048168"
+    },
+    {
+        "polo": "MIGUEL ALVES",
+        "parceiro": "SHIRLEY MARTINS",
+        "parceiro_local": "SHIRLEY MARTINS",
+        "endereco": "-4.170485855882358 -42.89355998265477"
+    },
+    {
+        "polo": "SAO JOAO DO ARRAIAL",
+        "parceiro": "SHIRLEY MARTINS",
+        "parceiro_local": "SHIRLEY MARTINS",
+        "endereco": "-3.8122412301431154 -42.44165482987966"
+    },
+    {
+        "polo": "PASTOS BONS",
+        "parceiro": "SHIRLEY MARTINS",
+        "parceiro_local": "SHIRLEY MARTINS",
+        "endereco": "-6.598910122389206 -44.08603503291121"
+    },
+    {
+        "polo": "SAO JOSE DO DIVINO",
+        "parceiro": "SHIRLEY MARTINS",
+        "parceiro_local": "SHIRLEY MARTINS",
+        "endereco": "-3.80974762662171 -41.82563813868404"
+    },
+    {
+        "polo": "PIRACURUCA",
+        "parceiro": "SHIRLEY MARTINS",
+        "parceiro_local": "SHIRLEY MARTINS",
+        "endereco": "-3.931157244981682 -41.70870526531923"
+    },
+    {
+        "polo": "ANTAS ",
+        "parceiro": "MALTA",
+        "parceiro_local": "MALTA",
+        "endereco": "-10.410690852114191 -38.32935389493358"
+    },
+    {
+        "polo": "MARACACUME",
+        "parceiro": "ANTONIA MARQUES",
+        "parceiro_local": "ANTONIA MARQUES",
+        "endereco": "-2.0463882113965006 -45.95805417343377"
+    },
+    {
+        "polo": "CODO",
+        "parceiro": "WILDISON",
+        "parceiro_local": "WILDISON",
+        "endereco": "-4.453036053541277 -43.88669990137172"
+    },
+    {
+        "polo": "PAULISTA",
+        "parceiro": "ANGELA ",
+        "parceiro_local": "ANGELA ",
+        "endereco": "-7.915976912292464 -34.827680270701336"
+    },
+    {
+        "polo": "MATRIZ DE CAMARAGIBE",
+        "parceiro": "ANGELA ",
+        "parceiro_local": "ANGELA ",
+        "endereco": "-9.156642561112141 -35.53343549213503"
+    },
+    {
+        "polo": "CAMARAGIBE",
+        "parceiro": "ANGELA ",
+        "parceiro_local": "ANGELA ",
+        "endereco": "-8.022020075077382 -34.994704189857394"
+    },
+    {
+        "polo": "GRAVATA",
+        "parceiro": "ANGELA ",
+        "parceiro_local": "ANGELA ",
+        "endereco": "-8.204566697078379 -35.57131610669301"
+    },
+    {
+        "polo": "JACAREANCANGA",
+        "parceiro": "FABIO LUCIANO",
+        "parceiro_local": "FABIO LUCIANO",
+        "endereco": "-6.221622165694262 -57.75778748355741"
+    },
+    {
+        "polo": "ITAITUBA",
+        "parceiro": "FABIO LUCIANO",
+        "parceiro_local": "FABIO LUCIANO",
+        "endereco": "-4.265058795093471 -55.991478011857396"
+    },
+    {
+        "polo": "MARABA",
+        "parceiro": "FABIO LUCIANO",
+        "parceiro_local": "FABIO LUCIANO",
+        "endereco": "-5.367106235140193 -49.1217797778274"
+    },
+    {
+        "polo": "MONSENHOR HIPOLITO ",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-6.997516789212912 -41.02886697971074"
+    },
+    {
+        "polo": "CAMPO GRANDE",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-7.132750320410196 -41.03743687490857"
+    },
+    {
+        "polo": "SAO JOAO DO PIAUI",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-8.355214176116851 -42.24529485589971"
+    },
+    {
+        "polo": "ANISIO DE ABREU ",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-9.186622468474322 -43.049442549300444"
+    },
+    {
+        "polo": "SIMOES",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-7.596553036866554 -40.81338248110081"
+    },
+    {
+        "polo": "PILAO ARCADO",
+        "parceiro": "MEIRINHA",
+        "parceiro_local": "MEIRINHA",
+        "endereco": "-9.99840863165043 -42.475537574186866"
+    },
+    {
+        "polo": "ELESBAO VELOSO",
+        "parceiro": "MALTA",
+        "parceiro_local": "MALTA",
+        "endereco": "-6.198942969110697 -42.12907379917657"
+    },
+    {
+        "polo": "MISSAO VELHA",
+        "parceiro": "ELISABETE",
+        "parceiro_local": "ELISABETE",
+        "endereco": "-7.249414574182463 -39.149661466138106"
+    },
+    {
+        "polo": "SAIRE",
+        "parceiro": "JOANA",
+        "parceiro_local": "JOANA",
+        "endereco": "-8.327526439760645 -35.714403136105545"
+    },
+    {
+        "polo": "SALGUEIRO",
+        "parceiro": "BINHO",
+        "parceiro_local": "BINHO",
+        "endereco": "-8.071707410853953 -39.125432417522106"
+    },
+    {
+        "polo": "TIMBAUBA ",
+        "parceiro": "RODRIGO",
+        "parceiro_local": "RODRIGO",
+        "endereco": "-7.509795340523016 -35.314578803927674"
+    },
+    {
+        "polo": "SANTANA DO MUNDAU ",
+        "parceiro": "ISABEL",
+        "parceiro_local": "ISABEL",
+        "endereco": "-9.170567944649376 -36.2238569719692"
+    },
+    {
+        "polo": "CORRENTES",
+        "parceiro": "ISABEL",
+        "parceiro_local": "ISABEL",
+        "endereco": "-9.16946640579176 -36.22304158053571"
+    },
+    {
+        "polo": "PORTO SEGURO",
+        "parceiro": "ETMA ",
+        "parceiro_local": "ETMA ",
+        "endereco": "-16.444635311762397 -39.066365227330806"
+    },
+    {
+        "polo": "BARREIRINHAS ",
+        "parceiro": "SONIA ",
+        "parceiro_local": "SONIA ",
+        "endereco": "-2.7583348234493186 -42.825078341263904"
+    },
+    {
+        "polo": "FLORIANO ",
+        "parceiro": "DJANIA/RICARDO",
+        "parceiro_local": "DJANIA/RICARDO",
+        "endereco": "-6.781335829707824 -43.02410942913369"
+    },
+    {
+        "polo": "UNIAO",
+        "parceiro": "LAYZA",
+        "parceiro_local": "LAYZA",
+        "endereco": "-4.589472267477734 -42.86011281981603"
+    },
+    {
+        "polo": "MIGUEL ALVES",
+        "parceiro": "DENIS RABELO",
+        "parceiro_local": "DENIS RABELO",
+        "endereco": "-4.170528657573698 -42.89355998258423"
+    },
+    {
+        "polo": "COELHO NETO",
+        "parceiro": "AELISON",
+        "parceiro_local": "AELISON",
+        "endereco": "-4.259058650910152 -43.01714079751213"
+    },
+    {
+        "polo": "AQUIRAZ",
+        "parceiro": "LISKELVIA",
+        "parceiro_local": "LISKELVIA",
+        "endereco": "-3.906163679905983 -38.38681066868294"
+    },
+    {
+        "polo": "BELAGUA",
+        "parceiro": "ARI PEREIRA",
+        "parceiro_local": "ARI PEREIRA",
+        "endereco": "-3.1594950481723068 -43.50822867697966"
+    },
+    {
+        "polo": "COQUEIRO/SAO BERNARDO",
+        "parceiro": "ARI PEREIRA ",
+        "parceiro_local": "ARI PEREIRA ",
+        "endereco": "-3.279563699175091 -42.32105630030664"
+    },
+    {
+        "polo": "CANUDOS",
+        "parceiro": "ARLETE",
+        "parceiro_local": "ARLETE",
+        "endereco": "-9.89668633133307 -39.02943408175822"
+    },
+    {
+        "polo": "MACURURE",
+        "parceiro": "BONIFACIO ",
+        "parceiro_local": "BONIFACIO",
+        "endereco": "-9.166731774386687 -39.05975905428486"
+    },
+    {
+        "polo": "CORRENTE",
+        "parceiro": "CAPITAO MARIO",
+        "parceiro_local": "CAPITAO MARIO",
+        "endereco": "-10.438755920830133 -45.165876520616514"
+    },
+    {
+        "polo": "BARRO DURO",
+        "parceiro": "CICERA",
+        "parceiro_local": "CICERA",
+        "endereco": "-5.8206416024697605 -42.50944136163543"
+    },
+    {
+        "polo": "TEOTONIO VILELA",
+        "parceiro": "CILENE",
+        "parceiro_local": "CILENE",
+        "endereco": "-9.90502881097557 -36.36100267823559"
+    },
+    {
+        "polo": "PARAGOMINAS",
+        "parceiro": "CILENE GERARD",
+        "parceiro_local": "CILENE GERARD",
+        "endereco": "-2.991260013725378 -47.35219339906084"
+    },
+    {
+        "polo": "SAO MIGUEL DO GUAMA",
+        "parceiro": "CILENE GERARD",
+        "parceiro_local": "CILENE GERARD",
+        "endereco": "-1.62051039053192 -47.47906809836531"
+    },
+    {
+        "polo": "ANGICAL",
+        "parceiro": "CLAUDIA E ROBERVAL",
+        "parceiro_local": "CLAUDIA E ROBERVAL",
+        "endereco": "-6.086861779395722 -42.73513850824124"
+    },
+    {
+        "polo": "SAO SEBASTIAO",
+        "parceiro": "CLEBSON",
+        "parceiro_local": "CLEBSON",
+        "endereco": "-9.930362836533972 -36.55500407696653"
+    },
+    {
+        "polo": "PIRIPIRI",
+        "parceiro": "CLEIDE BARROSO",
+        "parceiro_local": "CLEIDE BARROSO",
+        "endereco": "-4.275203498501187 -41.77806078355582"
+    },
+    {
+        "polo": "BREJINHO DO ISMAEL/PARNARAMA",
+        "parceiro": "CLEIDE BARROSO",
+        "parceiro_local": "CLEIDE BARROSO",
+        "endereco": "-5.886846409148678 -43.28949145062839"
+    },
+    {
+        "polo": "SANTA INES",
+        "parceiro": "CLENIS",
+        "parceiro_local": "CLENIS",
+        "endereco": "-3.6652598248532136 -45.381827772662994"
+    },
+    {
+        "polo": "EUNAPOLIS",
+        "parceiro": "CLERISTON ",
+        "parceiro_local": "CLERISTON ",
+        "endereco": "-16.37476354759955 -39.58919809999716"
+    },
+    {
+        "polo": "ANTAS",
+        "parceiro": "DANILA",
+        "parceiro_local": "DANILA",
+        "endereco": "-10.411558105818624 -38.3322861008046"
+    },
+    {
+        "polo": "Dias D'avila",
+        "parceiro": "Irma Sheyla",
+        "parceiro_local": "Irma Sheyla",
+        "endereco": "-12.610410772576156 -38.31006964481521"
+    },
+    {
+        "polo": "SENADOR GUIOMAR",
+        "parceiro": "CRISTOVAO ",
+        "parceiro_local": "CRISTOVAO ",
+        "endereco": "-10.152559782117336 -67.73805055560359"
+    },
+    {
+        "polo": "PEDREIRAS",
+        "parceiro": "DACIO",
+        "parceiro_local": "DACIO",
+        "endereco": "-4.571187960209542 -44.59912664064023"
+    },
+    {
+        "polo": "SUSSUAPARA",
+        "parceiro": "DAIANE ABREU",
+        "parceiro_local": "DAIANE ABREU",
+        "endereco": "-7.010149826952385 -41.38117282470974"
+    },
+    {
+        "polo": "JEREMOABO",
+        "parceiro": "FABIOLA",
+        "parceiro_local": "FABIOLA",
+        "endereco": "-10.076405312742624 -38.347801667208024"
+    },
+    {
+        "polo": "RIO GRANDE DO PIAUI",
+        "parceiro": "DAYANA CARDOSO",
+        "parceiro_local": "DAYANA CARDOSO",
+        "endereco": "-7.777644862679158 -43.13419229559817"
+    },
+    {
+        "polo": "FLORIANO",
+        "parceiro": "DEJANIA",
+        "parceiro_local": "DEJANIA",
+        "endereco": "-6.780909678363796 -43.02273613813401"
+    },
+    {
+        "polo": "AMARANTE",
+        "parceiro": "DJANIA ",
+        "parceiro_local": "DJANIA ",
+        "endereco": "-6.244650294414058 -42.85338726374787"
+    },
+    {
+        "polo": "IRECE",
+        "parceiro": "DOMINGUINHOS",
+        "parceiro_local": "DOMINGUINHOS",
+        "endereco": "-11.308328154236063 -41.8803722539559"
+    },
+    {
+        "polo": "JOSE DE FREITAS",
+        "parceiro": "DORIS",
+        "parceiro_local": "DORIS",
+        "endereco": "-4.758121815028011 -42.57817581776793"
+    },
+    {
+        "polo": "EUNAPOLIS",
+        "parceiro": "DOUGLAS",
+        "parceiro_local": "DOUGLAS",
+        "endereco": "-16.375257642756385 -39.58816813191942"
+    },
+    {
+        "polo": "SAO CRISTOVAO",
+        "parceiro": "EDCARLA",
+        "parceiro_local": "EDCARLA",
+        "endereco": "-11.011952430821967 -37.20805630264717"
+    },
+    {
+        "polo": "CATARINA",
+        "parceiro": "ALAN",
+        "parceiro_local": "ALAN",
+        "endereco": "-6.1330909333955805 -39.87685600977648"
+    },
+    {
+        "polo": "JUAZEIRO DO NORTE",
+        "parceiro": "KARINA MARTINS",
+        "parceiro_local": "KARINA MARTINS",
+        "endereco": "-7.223065047919526 -39.31430930160333"
+    },
+    {
+        "polo": "OEIRAS",
+        "parceiro": "ELIETE",
+        "parceiro_local": "ELIETE",
+        "endereco": "-7.015772290602607 -42.12573012428121"
+    },
+    {
+        "polo": "ZE DOCA",
+        "parceiro": "ELINEIA SILVA",
+        "parceiro_local": "ELINEIA SILVA",
+        "endereco": "-3.2713291973947913 -45.65196745850406"
+    },
+    {
+        "polo": "CAMPO ALEGRE",
+        "parceiro": "ERISVALDO",
+        "parceiro_local": "ERISVALDO",
+        "endereco": "-9.783400516378126 -36.34916798281976"
+    },
+    {
+        "polo": "BREJO SANTO",
+        "parceiro": "EZIO",
+        "parceiro_local": "EZIO",
+        "endereco": "-7.487546913294415 -38.986220563275836"
+    },
+    {
+        "polo": "NOVO ORIENTE",
+        "parceiro": "FRANCISQUINHA",
+        "parceiro_local": "FRANCISQUINHA",
+        "endereco": "-5.536905118917722 -40.771592248474015"
+    },
+    {
+        "polo": "JERUMENHA",
+        "parceiro": "GERALDO",
+        "parceiro_local": "GERALDO",
+        "endereco": "-7.087968039102143 -43.50690270242379"
+    },
+    {
+        "polo": "PIO IX",
+        "parceiro": "GERLANDIA",
+        "parceiro_local": "GERLANDIA",
+        "endereco": "-6.83500597477953 -40.61269881736139"
+    },
+    {
+        "polo": "CIPO",
+        "parceiro": "GLEIDE",
+        "parceiro_local": "GLEIDE",
+        "endereco": "-11.099821427963226 -38.514572181137254"
+    },
+    {
+        "polo": "GUACUI",
+        "parceiro": "FATIMA GRILO",
+        "parceiro_local": "FATIMA GRILO",
+        "endereco": "-20.769523757187788 -41.67141642032243"
+    },
+    {
+        "polo": "COROATA",
+        "parceiro": "CLEDINA ",
+        "parceiro_local": "CLEDINA ",
+        "endereco": "-4.127568877838282 -44.12787082578804"
+    },
+    {
+        "polo": "LAGO DA PEDRA",
+        "parceiro": "CLEITON",
+        "parceiro_local": "CLEITON",
+        "endereco": "-4.570316689628462 -45.13510026615883"
+    },
+    {
+        "polo": "SAO LUIS",
+        "parceiro": "EZEQUIEL",
+        "parceiro_local": "EZEQUIEL",
+        "endereco": "-2.5340358353342367 -44.292439986107276"
+    },
+    {
+        "polo": "SANTA LUZIA",
+        "parceiro": "EZEQUIEL ",
+        "parceiro_local": "EZEQUIEL ",
+        "endereco": "-3.970672484094257 -45.66678237374782"
+    },
+    {
+        "polo": "JURUTI",
+        "parceiro": "EZEQUIEL ",
+        "parceiro_local": "EZEQUIEL ",
+        "endereco": "-2.163029200667745 -56.09435254533804"
+    },
+    {
+        "polo": "CHAPADINHA",
+        "parceiro": "FABIO",
+        "parceiro_local": "FABIO",
+        "endereco": "-3.7413896268639237 -43.35953242689231"
+    },
+    {
+        "polo": "VITORINO FREIRE",
+        "parceiro": "Janete (Assistente da Secretaria de Educacao)",
+        "parceiro_local": "Janete (Assistente da Secretaria de Educacao)",
+        "endereco": "-4.287686395313774 -45.248019171407016"
+    },
+    {
+        "polo": "OLHO DAGUA DAS CUNHAS",
+        "parceiro": "Joao Mangueira (Secretario de Educacao)",
+        "parceiro_local": "Joao Mangueira (Secretaria de Educacao)",
+        "endereco": "-4.134027619614231 -45.12147870024888"
+    },
+    {
+        "polo": "SAO LUIZ GONZAGA",
+        "parceiro": "Layse ",
+        "parceiro_local": "Layse ",
+        "endereco": "-4.380534891068367 -44.659997117798135"
+    },
+    {
+        "polo": "PAULO RAMOS",
+        "parceiro": "Pauliane ",
+        "parceiro_local": "Pauliane ",
+        "endereco": "-4.444571700512269 -45.23978090483827"
+    },
+    {
+        "polo": "BERNARDO DO MEARIM",
+        "parceiro": "Railson",
+        "parceiro_local": "Railson",
+        "endereco": "-4.626532794084272 -44.7567290198742"
+    },
+    {
+        "polo": "ALTO ALEGRE",
+        "parceiro": "RIBAMAR ",
+        "parceiro_local": "RIBAMAR ",
+        "endereco": "-4.213672514376652 -44.4451670892646"
+    },
+    {
+        "polo": "BALSAS",
+        "parceiro": "Ricardo",
+        "parceiro_local": "Ricardo",
+        "endereco": "-7.532863721344572 -46.04068242088813"
+    },
+    {
+        "polo": "LAGO DO JUNCO",
+        "parceiro": "Robson ",
+        "parceiro_local": "Robson ",
+        "endereco": "-4.606000529255651 -45.04932203421244"
+    },
+    {
+        "polo": "Maracacume",
+        "parceiro": "Silvia ",
+        "parceiro_local": "Silvia ",
+        "endereco": "-2.046817091010373 -45.95861207225146"
+    },
+    {
+        "polo": "IGARAPE GRANDE",
+        "parceiro": "Vanilsa",
+        "parceiro_local": "Vanilsa",
+        "endereco": "-4.662071836886464 -44.852688242206156"
+    },
+    {
+        "polo": "JACARAU",
+        "parceiro": "HUMBERTO",
+        "parceiro_local": "HUMBERTO",
+        "endereco": "-6.614509284855389 -35.28933204051096"
+    },
+    {
+        "polo": "BARRAGEM LESTE",
+        "parceiro": "IDAIANE MORAES",
+        "parceiro_local": "IDAIANE MORAES",
+        "endereco": "-9.374271732298869 -38.20090755273886"
+    },
+    {
+        "polo": "JOCA MARQUES",
+        "parceiro": "IRIS ",
+        "parceiro_local": "IRIS ",
+        "endereco": "-3.4959300489970806 -42.43002415697728"
+    },
+    {
+        "polo": "CORRENTES",
+        "parceiro": "ISABEL",
+        "parceiro_local": "ISABEL",
+        "endereco": "-9.12795361333192 -36.32593674848716"
+    },
+    {
+        "polo": "SANTANA DO MUNDAU",
+        "parceiro": "ISABEL",
+        "parceiro_local": "ISABEL",
+        "endereco": "-9.170186643132507 -36.223556564611975"
+    },
+    {
+        "polo": "MALHADOR",
+        "parceiro": "ISABEL",
+        "parceiro_local": "ISABEL",
+        "endereco": "-10.657228074150833 -37.30470414000579"
+    },
+    {
+        "polo": "Estancia",
+        "parceiro": "Jaciara",
+        "parceiro_local": "Jaciara",
+        "endereco": "-11.271283863745035 -37.43771080886862"
+    },
+    {
+        "polo": "IGUAI",
+        "parceiro": "JANEI",
+        "parceiro_local": "JANEI",
+        "endereco": "-14.756534399140538 -40.08917942182292"
+    },
+    {
+        "polo": "DARIO MEIRA",
+        "parceiro": "JANEI",
+        "parceiro_local": "JANEI",
+        "endereco": "-14.43260268043385 -39.90330371635063"
+    },
+    {
+        "polo": "BOA NOVA",
+        "parceiro": "JANEI",
+        "parceiro_local": "JANEI",
+        "endereco": "-14.361430842169359 -40.20769698847162"
+    },
+    {
+        "polo": "VARZEA GRANDE",
+        "parceiro": "JARLANY",
+        "parceiro_local": "JARLANY",
+        "endereco": "-6.5455227854098785 -42.24878099763883"
+    },
+    {
+        "polo": "NOVO ORIENTE DO PIAUI",
+        "parceiro": "JARLANY",
+        "parceiro_local": "JARLANY",
+        "endereco": "-6.44925130658473 -41.92650691827103"
+    },
+    {
+        "polo": "FRANCINOPOLIS",
+        "parceiro": "JARLANY",
+        "parceiro_local": "JARLANY",
+        "endereco": "-6.394919439707875 -42.260112187105854"
+    },
+    {
+        "polo": "PORTO ALEGRE DO PIAUI",
+        "parceiro": "JOAO CARLOS ",
+        "parceiro_local": "JOAO CARLOS ",
+        "endereco": "-6.966952394381168 -44.188726152327476"
+    },
+    {
+        "polo": "Campinorte",
+        "parceiro": "Joao Vitor",
+        "parceiro_local": "Joao Vitor",
+        "endereco": "-14.313305087087356 -49.14872792620342"
+    },
+    {
+        "polo": "PICOS",
+        "parceiro": "JOCIMARY JOSEFA",
+        "parceiro_local": "JOCIMARY JOSEFA",
+        "endereco": "-7.083522903364435 -41.47123328135482"
+    },
+    {
+        "polo": "BONFIM DO PIAUI",
+        "parceiro": "JOCIMARY JOSEFA",
+        "parceiro_local": "JOCIMARY JOSEFA",
+        "endereco": "-9.167318211141957 -42.87210777907926"
+    },
+    {
+        "polo": "MARACACUME",
+        "parceiro": "ANTONIA MARQUES",
+        "parceiro_local": "ANTONIA MARQUES",
+        "endereco": "-2.04690286694963 -45.958440410896394"
+    },
+    {
+        "polo": "GROAIRAS",
+        "parceiro": "JOHN FARIAS",
+        "parceiro_local": "JOHN FARIAS",
+        "endereco": "-3.9144107914589403 -40.38339328668824"
+    },
+    {
+        "polo": "SOBRAL",
+        "parceiro": "JOHN FARIAS",
+        "parceiro_local": "JOHN FARIAS",
+        "endereco": "-3.6850428030461657 -40.355572631070636"
+    }
+]
