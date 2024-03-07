@@ -1,7 +1,7 @@
 import json
 import os
 import folium
-import webview
+#import webview
 from time import sleep
 from selenium import webdriver
 from flask import Flask, redirect, request, flash, render_template
@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 app = Flask(__name__)
 app.config['SECRET_KEY'] = "Ti-Malta"
 
-window = webview.create_window('Mapa de Polos Malta', app)
+#window = webview.create_window('Mapa de Polos Malta', app)
 
 arquivos = os.listdir()
 logado = False
@@ -74,7 +74,13 @@ def mapolo():
             coordenadas = (polo_coordenada['latitude'], polo_coordenada['longitude'])
             folium.Marker(coordenadas, popup=polo_coordenada['popup']).add_to(polos_mapa)
 
-        return polos_mapa.get_root().render()
+        polos_mapa.get_root().render()
+        header = polos_mapa.get_root().header.render()
+        body_html = polos_mapa.get_root().html.render()
+        script = polos_mapa.get_root().script.render()
+
+        return render_template(header=header, body_html=body_html, script=script)
+
     if logado == False:
         return redirect('/')
 
@@ -136,4 +142,5 @@ def insere_instituicao():
 
 
 if __name__ == '__main__':
-    webview.start()
+#    webview.start()
+    app.run()
