@@ -2,6 +2,7 @@ import json
 import os
 import folium
 #import webview
+from folium.plugins import TagFilterButton, FastMarkerCluster
 from time import sleep
 from selenium import webdriver
 from flask import Flask, redirect, request, flash, render_template, render_template_string
@@ -68,16 +69,21 @@ def mapolo():
             polo_coordenada['latitude'] = float(latitude)
             polo_coordenada['longitude'] = float(longitude)
             polo_coordenada['popup'] = str(ipolo+' '+iparceiro+' '+iparceiro_local)
-        polos_mapa = folium.Map(location=[-5.1188834018636795, -42.803002102827975], zoom_start=5, control_scale=True)
+        polos_mapa = folium.Map(location=[-5.1188834018636795, -42.803002102827975], zoom_start=5, control_scale=True,
+                                world_copy_jump=True, no_wrap=True)
         folium.LayerControl().add_to(polos_mapa)
         for polo_coordenada in polos_coordenadas:
             coordenadas = (polo_coordenada['latitude'], polo_coordenada['longitude'])
-            folium.Marker(coordenadas, popup=polo_coordenada['popup']).add_to(polos_mapa)
+            marcador = coordenadas
+            folium.Marker(coordenadas, popup=polo_coordenada['popup'], tags=[marcador]).add_to(polos_mapa)
 
+
+        TagFilterButton(marcador).add_to(polos_mapa)
         polos_mapa.get_root().render()
         header = polos_mapa.get_root().header.render()
         body_html = polos_mapa.get_root().html.render()
         script = polos_mapa.get_root().script.render()
+        print(marcador)
 
         return render_template_string(
             """
