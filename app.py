@@ -4,7 +4,7 @@ import folium
 #import webview
 from time import sleep
 from selenium import webdriver
-from flask import Flask, redirect, request, flash, render_template
+from flask import Flask, redirect, request, flash, render_template, render_template_string
 from selenium.webdriver.common.by import By
 
 app = Flask(__name__)
@@ -19,14 +19,14 @@ logado = False
 def home():
     global logado
     logado = False
-    return render_template("html/login.html")
+    return render_template("login.html")
 
 @app.route('/user')
 def user():
     if os.path.exists("C:\\Polos_Malta_Map\\output\\Mapa Polos Malta\\mapas.json"):
         global logado
         if logado == True:
-            return render_template("html/usuario.html")
+            return render_template("usuario.html")
         if logado == False:
             return redirect('/')
     else:
@@ -36,7 +36,7 @@ def user():
         navegador.find_element(By.XPATH, "//*[@id='repos-sticky-header']/div[1]/div[2]/div[2]/div[1]/div/span/button").click()
         sleep(3)
         navegador.quit()
-        return render_template("html/usuario.html")
+        return render_template("usuario.html")
 
 
 @app.route('/mapolo')
@@ -79,7 +79,26 @@ def mapolo():
         body_html = polos_mapa.get_root().html.render()
         script = polos_mapa.get_root().script.render()
 
-        return render_template(header=header, body_html=body_html, script=script)
+        return render_template_string(
+            """
+                <!DOCTYPE html>
+                <html>
+                    <head>
+                        {{ header|safe }}
+                    </head>
+                    <body>
+                        {% include "models/model-header-mapa.html" %}
+                        {{ body_html|safe }}
+                        <script>
+                            {{ script|safe }}
+                        </script>
+                    </body>
+                </html>
+            """,
+            header=header,
+            body_html=body_html,
+            script=script,
+        )
 
     if logado == False:
         return redirect('/')
@@ -107,7 +126,7 @@ def login():
 def inserirpolo():
     global logado
     if logado == True:
-        return render_template("html/novopolo.html")
+        return render_template("novopolo.html")
     if logado == False:
         return redirect('/')
 
@@ -136,7 +155,7 @@ def insere_instituicao():
         with open("C:\\Polos_Malta_Map\\output\\Mapa Polos Malta\\mapas.json", 'w') as gravarMapas:
             json.dump(mapaNovo, gravarMapas, indent=4)
             flash('Inserção bem sucedida')
-        return render_template("html/novopolo.html")
+        return render_template("novopolo.html")
     if logado == False:
         return redirect('/')
 

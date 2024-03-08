@@ -29,6 +29,12 @@ body {
     background: #ba0f14;
 }
 
+#login-out {
+    width: 100%;
+    top: 0;
+    height: 10vh;
+}
+
 #alerta {
     color: rgb(2, 102, 4);
     font-weight: 800;
@@ -137,8 +143,12 @@ body {
     .container {
         width: 50%;
     }
+    .input-group {
+        width: 65vh;
+    }
     .form {
         width: 100%;
+        border-radius: 30px;
     }
 }
 
