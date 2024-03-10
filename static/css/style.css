@@ -171,7 +171,7 @@ body {
 }
 
 .banner {
-    background-image: linear-gradient(#ffffff, #ffffff), url(/static/assets/BONECO-VERMELHO.png);
+    background-image: linear-gradient(#ffffff, #ffffff), url(../assets/BONECO-VERMELHO.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 60px 0px;
