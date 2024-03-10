@@ -83,7 +83,6 @@ def mapolo():
         header = polos_mapa.get_root().header.render()
         body_html = polos_mapa.get_root().html.render()
         script = polos_mapa.get_root().script.render()
-        print(marcador)
 
         return render_template_string(
             """
